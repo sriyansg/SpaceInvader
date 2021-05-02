@@ -1,0 +1,1 @@
+enemyY_change.append(40)
