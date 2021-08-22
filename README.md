@@ -1,7 +1,7 @@
 # SpaceInvader
 The simple old arcade game "space invaders" coded on python using the pygame module!
 
->Controls are simple, LEFT and RIGHT keys move the space-ship.
+>Controls are simple, LEFT and RIGHT keys move the space-ship, SPACE to shoot.
 
 >Shoot the Aliens before they reach your spaceship!
 
